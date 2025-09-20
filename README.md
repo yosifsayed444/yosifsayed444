@@ -39,42 +39,41 @@ My adventure started with the solid foundations of programming logic through *C/
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
 </p>
 
-
 ## 🚀 Featured Projects  
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
-      <a href="https://github.com/yosifsayed444/ToDoListApp">
-        <img src="https://img.icons8.com/color/96/todo-list.png" width="90"/>
-        <h3>📝 ToDo List App</h3>
-      </a>
-      <p>Manage daily tasks with a clean and simple ToDo app.<br><br>
-      ✅ Add, edit, and delete tasks easily.<br>
-      🎨 Minimal and responsive UI.</p>
-    </td>
-    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
-      <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-        <img src="https://img.icons8.com/color/96/school-building.png" width="90"/>
-        <h3>🏫 School System</h3>
-      </a>
-      <p>OOP-based project to manage students, teachers, and school operations.<br><br>
-      📚 Add/Edit/Delete Students.<br>
-      🧑‍🏫 Manage Teachers & Courses.</p>
-    </td>
-    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
-      <a href="https://github.com/yosifsayed444/IT_Project">
-        <img src="https://img.icons8.com/color/96/computer.png" width="90"/>
-        <h3>💻 IT Project</h3>
-      </a>
-      <p>Practical IT project showcasing teamwork and structured code.<br><br>
-      🚀 Focused on real-world applications.<br>
-      🔧 Demonstrates backend & frontend basics.</p>
-    </td>
-  </tr>
-</table>
+### 📝 ToDo List App  
+<img src="https://img.icons8.com/color/96/todo-list.png" width="80"/>  
+Manage daily tasks with a clean and simple ToDo app.  
+
+🔹 **Features**: Add, edit, delete tasks | Responsive UI  
+🔹 **Tech**: HTML, CSS, JavaScript  
+
+[![GitHub](https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github)](https://github.com/yosifsayed444/ToDoListApp)  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](#)  
+
+---
+
+### 🏫 School System  
+<img src="https://img.icons8.com/color/96/school-building.png" width="80"/>  
+OOP-based project to manage students, teachers, and school operations.  
+
+🔹 **Features**: Manage Students | Teachers | Courses  
+🔹 **Tech**: C++, OOP  
+
+[![GitHub](https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github)](https://github.com/yosifsayed444/School_System_Adminstration)  
+
+---
+
+### 💻 IT Project  
+<img src="https://img.icons8.com/color/96/computer.png" width="80"/>  
+Team-based IT project showcasing backend & frontend basics.  
+
+🔹 **Features**: Real-world focus | Structured Code  
+🔹 **Tech**: HTML, CSS, C++  
+
+[![GitHub](https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github)](https://github.com/yosifsayed444/IT_Project)  
 
 </div>
 
