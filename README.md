@@ -23,68 +23,39 @@
 
 ---
 
+## 🎭 The Origin Story
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+Once upon a time, in a world filled with `<div>`s and semicolons, a passionate soul named *Yossef Sayed Abozide* embarked on an epic quest to master the art of *Front End Development*. Armed with a keyboard, an endless supply of coffee, and an insatiable curiosity for creating beautiful digital experiences, I began my journey from the depths of C++ algorithms to the colorful realms of HTML, CSS, and JavaScript.
+
+My adventure started with the solid foundations of programming logic through *C/C++* and *problem-solving mastery*, which gave me the superpower to think algorithmically. Now, I'm channeling that analytical mindset into crafting pixel-perfect user interfaces and seamless user experiences. Every bug I squash, every responsive design I create, and every React component I build brings me one step closer to becoming the front-end wizard I aspire to be!
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <!-- لو عايز الـ streak رجّع اللينك ده بعد ما يصلح: 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
+  -->
 </p>
+
 ---
-## 🚀 Featured Projects  
 
-<div align="center">
+## 📂 Featured Projects  
 
-<table>
-  <tr>
-    <!-- ToDo App -->
-    <td width="300" align="center">
-      <img src="https://img.icons8.com/color/96/todo-list.png" width="80"/>  
-      <h3>📝 ToDo List App</h3>
-      <p>Manage daily tasks with a clean and simple ToDo app.</p>
-      <p>
-        🔹 Add, edit, delete tasks<br>
-        🔹 Responsive UI
-      </p>
-      <a href="https://github.com/yosifsayed444/ToDoListApp">
-        <img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live_Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-    </td>
-
-    <!-- School System -->
-    <td width="300" align="center">
-      <img src="https://img.icons8.com/color/96/school-building.png" width="80"/>  
-      <h3>🏫 School System</h3>
-      <p>OOP-based project to manage students, teachers, and school operations.</p>
-      <p>
-        🔹 Manage Students<br>
-        🔹 Manage Teachers & Courses
-      </p>
-      <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-        <img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-
-    <!-- IT Project -->
-    <td width="300" align="center">
-      <img src="https://img.icons8.com/color/96/computer.png" width="80"/>  
-      <h3>💻 IT Project</h3>
-      <p>Team-based IT project showcasing backend & frontend basics.</p>
-      <p>
-        🔹 Real-world focus<br>
-        🔹 Structured Code
-      </p>
-      <a href="https://github.com/yosifsayed444/IT_Project">
-        <img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-
+<p align="center">
+  <a href="https://github.com/yosifsayed444/ToDoListApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=ToDoListApp&theme=tokyonight" alt="ToDoListApp" />
+  </a>
+  <a href="https://github.com/yosifsayed444/School_System_Adminstration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=School_System_Adminstration&theme=tokyonight" alt="School System" />
+  </a>
+  <a href="https://github.com/yosifsayed444/IT_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=IT_Project&theme=tokyonight" alt="IT Project" />
+  </a>
+</p>
 
 ---
 
