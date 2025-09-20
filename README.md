@@ -6,16 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
-ascii
-    ╔══════════════════════════════════════════════════════════════╗
-    ║                    🌟 WELCOME TO MY REALM 🌟                  ║
-    ║                                                              ║
-    ║    ┌─────────────┐     🚀 Launching Dreams Into Code        ║
-    ║    │  YOSSEF     │     💡 Building Tomorrow's Web Today      ║
-    ║    │   SAYED     │     🎯 One Component at a Time           ║
-    ║    │ ABOZIDE     │                                          ║
-    ║    └─────────────┘     "This is my bio."                    ║
-    ╚══════════════════════════════════════════════════════════════╝
+
 
 
 ---
@@ -38,8 +29,11 @@ ascii
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true&card_width=420" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yosifsayed444&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
