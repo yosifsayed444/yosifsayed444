@@ -23,20 +23,18 @@
 
 ---
 
-## 🎭 The Origin Story
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-Once upon a time, in a world filled with `<div>`s and semicolons, a passionate soul named *Yossef Sayed Abozide* embarked on an epic quest to master the art of *Front End Development*. Armed with a keyboard, an endless supply of coffee, and an insatiable curiosity for creating beautiful digital experiences, I began my journey from the depths of C++ algorithms to the colorful realms of HTML, CSS, and JavaScript.
-
-My adventure started with the solid foundations of programming logic through *C/C++* and *problem-solving mastery*, which gave me the superpower to think algorithmically. Now, I'm channeling that analytical mindset into crafting pixel-perfect user interfaces and seamless user experiences. Every bug I squash, every responsive design I create, and every React component I build brings me one step closer to becoming the front-end wizard I aspire to be!
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="180"/>
+  <!-- بدّل Streak بـ Trophy -->
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=yosifsayed444&theme=onedark)
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📝 Languages Usage
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
@@ -63,7 +61,7 @@ My adventure started with the solid foundations of programming logic through *C/
   <div style="flex: 1 1 300px; max-width: 300px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: #fff; border-radius: 15px; padding: 20px; transition: transform 0.3s, box-shadow 0.3s;"
        onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.4)';"
        onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/color/96/school-building.png" width="70"/>  
+    <img src="https://img.icons8.com;color/96/school-building.png" width="70"/>  
     <h3>🏫 School System</h3>
     <p>OOP-based project to manage students, teachers, and courses.</p>
     <p><b>Tech:</b> C++, OOP</p>
