@@ -19,30 +19,22 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages  
-<p>
+### 💻 Languages & 🔧 Tools    
   <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" />
-</p>
 
-### 🎨 Frontend  
-<p>
   <img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
 
-### ⚙️ Backend  
-<p>
+
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
-### 🗄️ Database  
-<p>
+
+
   <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
 
-### 🔧 Tools  
-<p>
+
+
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+
 
 ---
 
