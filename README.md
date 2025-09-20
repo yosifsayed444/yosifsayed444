@@ -1,13 +1,25 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hello+World!+I'm+Yossef+Sayed;MERN+Stack+Developer+In+Progress+%F0%9F%92%BB;Turning+Coffee+Into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Yossef+Sayed;Front+End+Developer+In+Progress+%F0%9F%92%BB;Turning+Coffee+Into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
+
+ascii
+    ╔══════════════════════════════════════════════════════════════╗
+    ║                    🌟 WELCOME TO MY REALM 🌟                  ║
+    ║                                                              ║
+    ║    ┌─────────────┐     🚀 Launching Dreams Into Code        ║
+    ║    │  YOSSEF     │     💡 Building Tomorrow's Web Today      ║
+    ║    │   SAYED     │     🎯 One Component at a Time           ║
+    ║    │ ABOZIDE     │                                          ║
+    ║    └─────────────┘     "This is my bio."                    ║
+    ╚══════════════════════════════════════════════════════════════╝
+
 
 ---
+
 
 ## 👨‍💻 About Me
 - 🎓 Second-year **Computer Science** student at Faculty of Computers and Information  
