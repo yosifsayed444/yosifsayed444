@@ -26,15 +26,14 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="180"/>
-  <!-- بدّل Streak بـ Trophy -->
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=yosifsayed444&theme=onedark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
 
 ## 📝 Languages Usage
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+
 </p>
 
 ---
