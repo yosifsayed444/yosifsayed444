@@ -45,7 +45,7 @@
 <p align="center">
 
   <!-- Project 1 -->
-  <a href="[https://github.com/yosifsayed444/todo-list](https://github.com/yosifsayed444/ToDoListApp.git)">
+  <a href="https://github.com/yosifsayed444/ToDoListApp.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=todo-list&theme=tokyonight" />
   </a>
 
@@ -64,10 +64,16 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
-<a href="mailto:yousifsayed338@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/yossef-sayed-213019357"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/yosifsayed444"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<p align="center">
+  <a href="mailto:yousifsayed338@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yossef-sayed-213019357">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/yosifsayed444">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github"/>
+  </a>
 </p>
 
 ---
