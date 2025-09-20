@@ -8,7 +8,6 @@
 
 ---
 
-
 ## 👨‍💻 About Me
 - 🎓 Second-year **Computer Science** student at Faculty of Computers and Information  
 - 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
@@ -32,48 +31,58 @@ Once upon a time, in a world filled with `<div>`s and semicolons, a passionate s
 
 My adventure started with the solid foundations of programming logic through *C/C++* and *problem-solving mastery*, which gave me the superpower to think algorithmically. Now, I'm channeling that analytical mindset into crafting pixel-perfect user interfaces and seamless user experiences. Every bug I squash, every responsive design I create, and every React component I build brings me one step closer to becoming the front-end wizard I aspire to be!
 
+---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
 </p>
+
+---
 
 ## 🚀 Featured Projects  
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-### 📝 ToDo List App  
-<img src="https://img.icons8.com/color/96/todo-list.png" width="80"/>  
-Manage daily tasks with a clean and simple ToDo app.  
+  <div style="flex: 1 1 300px; max-width: 300px; background: linear-gradient(135deg, #1e3c72, #2a5298); color: #fff; border-radius: 15px; padding: 20px; transition: transform 0.3s, box-shadow 0.3s;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.4)';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+    <img src="https://img.icons8.com/color/96/todo-list.png" width="70"/>  
+    <h3>📝 ToDo List App</h3>
+    <p>Manage daily tasks with a clean and simple ToDo app.</p>
+    <p><b>Tech:</b> HTML, CSS, JavaScript</p>
+    <a href="https://github.com/yosifsayed444/ToDoListApp">
+      <img src="https://img.shields.io/badge/Source_Code-fff?style=for-the-badge&logo=github&logoColor=000"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Live_Demo-28A745?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+  </div>
 
-🔹 **Features**: Add, edit, delete tasks | Responsive UI  
-🔹 **Tech**: HTML, CSS, JavaScript  
+  <div style="flex: 1 1 300px; max-width: 300px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: #fff; border-radius: 15px; padding: 20px; transition: transform 0.3s, box-shadow 0.3s;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.4)';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+    <img src="https://img.icons8.com/color/96/school-building.png" width="70"/>  
+    <h3>🏫 School System</h3>
+    <p>OOP-based project to manage students, teachers, and courses.</p>
+    <p><b>Tech:</b> C++, OOP</p>
+    <a href="https://github.com/yosifsayed444/School_System_Adminstration">
+      <img src="https://img.shields.io/badge/Source_Code-fff?style=for-the-badge&logo=github&logoColor=000"/>
+    </a>
+  </div>
 
-[![GitHub](https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github)](https://github.com/yosifsayed444/ToDoListApp)  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](#)  
-
----
-
-### 🏫 School System  
-<img src="https://img.icons8.com/color/96/school-building.png" width="80"/>  
-OOP-based project to manage students, teachers, and school operations.  
-
-🔹 **Features**: Manage Students | Teachers | Courses  
-🔹 **Tech**: C++, OOP  
-
-[![GitHub](https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github)](https://github.com/yosifsayed444/School_System_Adminstration)  
-
----
-
-### 💻 IT Project  
-<img src="https://img.icons8.com/color/96/computer.png" width="80"/>  
-Team-based IT project showcasing backend & frontend basics.  
-
-🔹 **Features**: Real-world focus | Structured Code  
-🔹 **Tech**: HTML, CSS, C++  
-
-[![GitHub](https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github)](https://github.com/yosifsayed444/IT_Project)  
+  <div style="flex: 1 1 300px; max-width: 300px; background: linear-gradient(135deg, #42275a, #734b6d); color: #fff; border-radius: 15px; padding: 20px; transition: transform 0.3s, box-shadow 0.3s;"
+       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.4)';"
+       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+    <img src="https://img.icons8.com/color/96/computer.png" width="70"/>  
+    <h3>💻 IT Project</h3>
+    <p>Team-based IT project showcasing frontend & backend basics.</p>
+    <p><b>Tech:</b> HTML, CSS, C++</p>
+    <a href="https://github.com/yosifsayed444/IT_Project">
+      <img src="https://img.shields.io/badge/Source_Code-fff?style=for-the-badge&logo=github&logoColor=000"/>
+    </a>
+  </div>
 
 </div>
 
@@ -99,4 +108,3 @@ Team-based IT project showcasing backend & frontend basics.
 ![Profile Views](https://komarev.com/ghpvc/?username=yosifsayed444&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
