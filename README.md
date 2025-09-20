@@ -28,12 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
-
 ---
-
-
----
-
 ## 🚀 Featured Projects  
 
 <div align="center">
@@ -41,7 +36,7 @@
 <table>
   <tr>
     <!-- ToDo App -->
-    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
+    <td width="300" align="center">
       <img src="https://img.icons8.com/color/96/todo-list.png" width="80"/>  
       <h3>📝 ToDo List App</h3>
       <p>Manage daily tasks with a clean and simple ToDo app.</p>
@@ -58,7 +53,7 @@
     </td>
 
     <!-- School System -->
-    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
+    <td width="300" align="center">
       <img src="https://img.icons8.com/color/96/school-building.png" width="80"/>  
       <h3>🏫 School System</h3>
       <p>OOP-based project to manage students, teachers, and school operations.</p>
@@ -72,7 +67,7 @@
     </td>
 
     <!-- IT Project -->
-    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
+    <td width="300" align="center">
       <img src="https://img.icons8.com/color/96/computer.png" width="80"/>  
       <h3>💻 IT Project</h3>
       <p>Team-based IT project showcasing backend & frontend basics.</p>
@@ -88,6 +83,7 @@
 </table>
 
 </div>
+
 
 
 ---
