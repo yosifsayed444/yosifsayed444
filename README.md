@@ -1,6 +1,6 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Yossef Sayed</h1>
-<h3 align="center">Computer Science Student | Aspiring MERN Stack Developer</h3>
+[<h1 align="center">Hi 👋, I'm Yossef Sayed</h1>
+<h3 align="center">Computer Science Student | Aspiring MERN Stack Developer</h3>](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Yossef+Sayed;Front+End+Developer+In+Progress+%F0%9F%92%BB;Turning+Coffee+Into+Code+%E2%98%95%EF%B8%8F)
 
 ---
 
