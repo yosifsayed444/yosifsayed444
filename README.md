@@ -46,45 +46,52 @@ My adventure started with the solid foundations of programming logic through *C/
 
 <table>
   <tr>
-    <td>
+    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
       <a href="https://github.com/yosifsayed444/ToDoListApp">
-        <img src="https://img.icons8.com/color/96/todo-list.png" width="80"/>
+        <img src="https://img.icons8.com/color/96/todo-list.png" width="90"/>
         <h3>📝 ToDo List App</h3>
       </a>
-      <p>Manage daily tasks with a clean and simple ToDo app.</p>
+      <p>Manage daily tasks with a clean and simple ToDo app.<br><br>
+      ✅ Add, edit, and delete tasks easily.<br>
+      🎨 Minimal and responsive UI.</p>
     </td>
-    <td>
+    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
       <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-        <img src="https://img.icons8.com/color/96/school-building.png" width="80"/>
+        <img src="https://img.icons8.com/color/96/school-building.png" width="90"/>
         <h3>🏫 School System</h3>
       </a>
-      <p>OOP-based project to manage students, teachers, and school operations.</p>
+      <p>OOP-based project to manage students, teachers, and school operations.<br><br>
+      📚 Add/Edit/Delete Students.<br>
+      🧑‍🏫 Manage Teachers & Courses.</p>
     </td>
-    <td>
+    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
       <a href="https://github.com/yosifsayed444/IT_Project">
-        <img src="https://img.icons8.com/color/96/computer.png" width="80"/>
+        <img src="https://img.icons8.com/color/96/computer.png" width="90"/>
         <h3>💻 IT Project</h3>
       </a>
-      <p>Practical IT project showcasing teamwork and code structure.</p>
+      <p>Practical IT project showcasing teamwork and structured code.<br><br>
+      🚀 Focused on real-world applications.<br>
+      🔧 Demonstrates backend & frontend basics.</p>
     </td>
   </tr>
 </table>
 
 </div>
 
+---
+
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://github.com/yosifsayed444">
-    <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" width="50" />
+    <img src="https://img.icons8.com/ios-glyphs/70/github.png" width="55"/>
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.icons8.com/ios-filled/60/000000/linkedin.png" width="50" />
+  <a href="https://www.linkedin.com/in/yossef-sayed-213019357">
+    <img src="https://img.icons8.com/ios-filled/70/0077B5/linkedin.png" width="55"/>
   </a>
   <a href="mailto:yousifsayed338@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/60/000000/gmail.png" width="50" />
+    <img src="https://img.icons8.com/ios-filled/70/D14836/gmail.png" width="55"/>
   </a>
 </p>
-
   
 ### 🎭 *"In a world full of bugs, be a feature!"* 
 
