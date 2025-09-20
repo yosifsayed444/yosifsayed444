@@ -38,44 +38,58 @@
 
 ---
 
-## 🌟 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true&card_width=420" height="180"/>
-</p>
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-  <!-- ToDoListApp -->
-  <a href="https://github.com/yosifsayed444/ToDoListApp">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/200/external-checklist-agile-flat-flat-juicy-fish.png" width="100" alt="ToDoList Logo"/>
-    <h3>📝 ToDo List App</h3>
-    <p><b>Simple and responsive ToDo List application</b> built with HTML, CSS, and JavaScript.  
-    Manage your daily tasks efficiently with add, complete, and delete features.</p>
-  </a>
+<table>
+  <tr>
+    <!-- ToDoListApp -->
+    <td align="center" width="320" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
+      <img src="https://img.icons8.com/external-flat-juicy-fish/200/external-checklist-agile-flat-flat-juicy-fish.png" width="100" alt="ToDoList Logo"/>
+      <h3>📝 ToDo List App</h3>
+      <p><b>Responsive ToDo List</b> app with HTML, CSS, and JS.  
+      Add, complete, and delete tasks with ease.</p>
+      <a href="https://github.com/yosifsayed444/ToDoListApp">
+        <img src="https://img.shields.io/badge/View%20Code-28a745?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live%20Demo-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
 
-  <hr width="60%"/>
+    <!-- School System -->
+    <td align="center" width="320" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
+      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/200/external-school-education-flaticons-lineal-color-flat-icons.png" width="100" alt="School System Logo"/>
+      <h3>🏫 School System</h3>
+      <p><b>Management System</b> in C++ OOP.  
+      Manage students, teachers, and courses easily.</p>
+      <a href="https://github.com/yosifsayed444/School_System_Adminstration">
+        <img src="https://img.shields.io/badge/View%20Code-28a745?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live%20Demo-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
 
-  <!-- School System Administration -->
-  <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/200/external-school-education-flaticons-lineal-color-flat-icons.png" width="100" alt="School System Logo"/>
-    <h3>🏫 School System Administration</h3>
-    <p><b>School management system</b> built with C++ OOP concepts.  
-    Manage students, teachers, and courses through a menu-driven program.</p>
-  </a>
-
-  <hr width="60%"/>
-
-  <!-- IT Project -->
-  <a href="https://github.com/yosifsayed444/IT_Project">
-    <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/200/external-project-project-management-itim2101-lineal-color-itim2101.png" width="100" alt="IT Project Logo"/>
-    <h3>💻 IT Project</h3>
-    <p><b>Academic IT project</b> demonstrating system design and problem-solving.  
-    Includes multiple programming concepts and modular structure.</p>
-  </a>
+    <!-- IT Project -->
+    <td align="center" width="320" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
+      <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/200/external-project-project-management-itim2101-lineal-color-itim2101.png" width="100" alt="IT Project Logo"/>
+      <h3>💻 IT Project</h3>
+      <p><b>Academic Project</b> with modular code.  
+      Focused on system design & problem-solving.</p>
+      <a href="https://github.com/yosifsayed444/IT_Project">
+        <img src="https://img.shields.io/badge/View%20Code-28a745?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live%20Demo-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 
 ## 🌐 Connect with Me
