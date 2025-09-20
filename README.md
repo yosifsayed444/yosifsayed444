@@ -45,7 +45,7 @@
 <p align="center">
 
   <!-- Project 1 -->
-  <a href="https://github.com/yosifsayed444/todo-list">
+  <a href="[https://github.com/yosifsayed444/todo-list](https://github.com/yosifsayed444/ToDoListApp.git)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=todo-list&theme=tokyonight" />
   </a>
 
