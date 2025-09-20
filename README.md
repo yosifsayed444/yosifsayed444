@@ -36,9 +36,8 @@ My adventure started with the solid foundations of programming logic through *C/
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="180"/>
-  <!-- لو عايز الـ streak رجّع اللينك ده بعد ما يصلح: 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
-  -->
+  
 </p>
 
 ---
