@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Yossef+Sayed;MERN+Stack+Developer+In+Progress+%F0%9F%92%BB;Turning+Coffee+Into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Yossef+Sayed;MERN+Stack+Developer+In+Progress+%F0%9F%92%BB;Turning+Coffee+Into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,21 +20,10 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & 🔧 Tools    
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" />
 
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
-
-
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-
-
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-
-
-
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
 ---
 
