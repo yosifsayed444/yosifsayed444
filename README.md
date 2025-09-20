@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,c,git,github,vscode,tailwind" height="50"/>
 </p>
 
 ---
@@ -40,42 +40,27 @@
 ---
 
 ## 🚀 Featured Projects  
-
 <div align="center">
 
-  <!-- ToDoListApp -->
-  <a href="https://github.com/yosifsayed444/ToDoListApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=ToDoListApp&theme=radical&border_color=FF0000&border_radius=15" />
-  </a>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/yosifsayed444/ToDoListApp?style=flat-square&color=yellow&logo=javascript" />
-    <img src="https://img.shields.io/github/stars/yosifsayed444/ToDoListApp?style=flat-square&color=brightgreen&logo=github" />
-    <img src="https://img.shields.io/github/forks/yosifsayed444/ToDoListApp?style=flat-square&color=blue&logo=github" />
-  </p>
-
-  ---
-
-  <!-- School System -->
-  <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=School_System_Adminstration&theme=radical&border_color=FF0000&border_radius=15" />
-  </a>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/yosifsayed444/School_System_Adminstration?style=flat-square&color=orange&logo=c%2B%2B" />
-    <img src="https://img.shields.io/github/stars/yosifsayed444/School_System_Adminstration?style=flat-square&color=brightgreen&logo=github" />
-    <img src="https://img.shields.io/github/forks/yosifsayed444/School_System_Adminstration?style=flat-square&color=blue&logo=github" />
-  </p>
-
-  ---
-
-  <!-- IT Project -->
-  <a href="https://github.com/yosifsayed444/IT_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=IT_Project&theme=radical&border_color=FF0000&border_radius=15" />
-  </a>
-  <p>
-    <img src="https://img.shields.io/github/languages/top/yosifsayed444/IT_Project?style=flat-square&color=red&logo=java" />
-    <img src="https://img.shields.io/github/stars/yosifsayed444/IT_Project?style=flat-square&color=brightgreen&logo=github" />
-    <img src="https://img.shields.io/github/forks/yosifsayed444/IT_Project?style=flat-square&color=blue&logo=github" />
-  </p>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/yosifsayed444/ToDoListApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=ToDoListApp&theme=radical&border_color=FF0000&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yosifsayed444/School_System_Adminstration">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=School_System_Adminstration&theme=radical&border_color=FF0000&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yosifsayed444/IT_Project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=IT_Project&theme=radical&border_color=FF0000&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
