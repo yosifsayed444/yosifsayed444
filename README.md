@@ -6,9 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
-
-
-
 ---
 
 
@@ -36,133 +33,112 @@ Once upon a time, in a world filled with `<div>`s and semicolons, a passionate s
 My adventure started with the solid foundations of programming logic through *C/C++* and *problem-solving mastery*, which gave me the superpower to think algorithmically. Now, I'm channeling that analytical mindset into crafting pixel-perfect user interfaces and seamless user experiences. Every bug I squash, every responsive design I create, and every React component I build brings me one step closer to becoming the front-end wizard I aspire to be!
 
 ---
+## 🛠️ Tech Stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode&theme=dark" height="65"/>
+</div>
+
+---
 
 ## 🚀 Featured Projects
+<style>
+.card {
+  border-radius: 20px;
+  padding: 25px;
+  width: 320px;
+  background: #111827;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.6);
+  transition: all 0.3s ease-in-out;
+  display: inline-block;
+  vertical-align: top;
+  margin: 15px;
+}
+.card:hover {
+  transform: scale(1.07);
+  background: #1f2937;
+  box-shadow: 0 12px 25px rgba(0,0,0,0.8);
+}
+.card h3 {
+  background: linear-gradient(90deg,#FF4C4C,#FF9A8B);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.card p {
+  color: #ccc;
+}
+</style>
 
 <div align="center">
 
-<table>
-  <tr>
-    <!-- ToDoListApp -->
-    <td align="center" width="320" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
-      <img src="https://img.icons8.com/external-flat-juicy-fish/200/external-checklist-agile-flat-flat-juicy-fish.png" width="100" alt="ToDoList Logo"/>
-      <h3>📝 ToDo List App</h3>
-      <p><b>Responsive ToDo List</b> app with HTML, CSS, and JS.  
-      Add, complete, and delete tasks with ease.</p>
-      <a href="https://github.com/yosifsayed444/ToDoListApp">
-        <img src="https://img.shields.io/badge/View%20Code-28a745?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live%20Demo-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" />
-      </a>
-    </td>
+  <!-- ToDo List App -->
+  <div class="card">
+    <a href="https://github.com/yosifsayed444/ToDoListApp">
+      <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" width="180"/>
+      <h3>ToDo List App</h3>
+    </a>
+    <p>A simple and interactive ToDo List application to manage daily tasks efficiently.</p>
+    <a href="https://github.com/yosifsayed444/ToDoListApp">
+      <img src="https://img.shields.io/badge/View%20Repo-FF4C4C?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
 
-    <!-- School System -->
-    <td align="center" width="320" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
-      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/200/external-school-education-flaticons-lineal-color-flat-icons.png" width="100" alt="School System Logo"/>
-      <h3>🏫 School System</h3>
-      <p><b>Management System</b> in C++ OOP.  
-      Manage students, teachers, and courses easily.</p>
-      <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-        <img src="https://img.shields.io/badge/View%20Code-28a745?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live%20Demo-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" />
-      </a>
-    </td>
+  <!-- School System -->
+  <div class="card">
+    <a href="https://github.com/yosifsayed444/School_System_Adminstration">
+      <img src="https://skillicons.dev/icons?i=cpp,github&theme=dark" width="180"/>
+      <h3>School System</h3>
+    </a>
+    <p>OOP-based School Management System project built with C++.</p>
+    <a href="https://github.com/yosifsayed444/School_System_Adminstration">
+      <img src="https://img.shields.io/badge/View%20Repo-FF4C4C?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
 
-    <!-- IT Project -->
-    <td align="center" width="320" style="border: 2px solid #444; border-radius: 15px; padding: 20px;">
-      <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/200/external-project-project-management-itim2101-lineal-color-itim2101.png" width="100" alt="IT Project Logo"/>
-      <h3>💻 IT Project</h3>
-      <p><b>Academic Project</b> with modular code.  
-      Focused on system design & problem-solving.</p>
-      <a href="https://github.com/yosifsayed444/IT_Project">
-        <img src="https://img.shields.io/badge/View%20Code-28a745?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live%20Demo-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <!-- IT Project -->
+  <div class="card">
+    <a href="https://github.com/yosifsayed444/IT_Project">
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react&theme=dark" width="180"/>
+      <h3>IT Project</h3>
+    </a>
+    <p>An IT project combining frontend and backend technologies for practice.</p>
+    <a href="https://github.com/yosifsayed444/IT_Project">
+      <img src="https://img.shields.io/badge/View%20Repo-FF4C4C?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </div>
 
 </div>
 
 ---
 
-## ⚡ Power Stats & Combat Level
-
-<div align="center">
-
-| 🏆 *Skill Domain* | 💪 *Power Level* | 🎯 *Status* |
-|:---:|:---:|:---:|
-| *HTML Mastery* | ████████████████████ 100% | 👑 *MASTER* |
-| *CSS Wizardry* | ████████████████████ 100% | 👑 *MASTER* |
-| *C/C++ Sorcery* | ████████████████████ 100% | 👑 *MASTER* |
-| *Problem Solving* | ████████████████████ 100% | 🧠 *MASTER* |
-| *JavaScript Magic* | ████████████████░░░░ 80% | 🔥 *GOOD* |
-| *React.js Journey* | ████░░░░░░░░░░░░░░░░ 20% | 🌱 *LEARNING* |
-| *PHP Adventures* | ██████░░░░░░░░░░░░░░ 30% | 📚 *BASIC* |
-| *MySQL Queries* | ██████░░░░░░░░░░░░░░ 30% | 📚 *BASIC* |
-| *Java Expedition* | ████░░░░░░░░░░░░░░░░ 20% | 🌱 *LEARNING* |
-| *Python Scripts* | ████░░░░░░░░░░░░░░░░ 20% | 📚 *BASIC* |
-| *Git/GitHub Flow* | ████████████████░░░░ 80% | ✅ *COMPLETED* |
-
-</div>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
+</p>
 
 ---
 
-## 🛠 My Arsenal of Technologies
-
-<div align="center">
-
-### 👑 *Master Level Skills*
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🔥 *Battle-Ready Skills*
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🌱 *Growing Powers*
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
+## 🌟 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## 📊 Battle Statistics & Achievements
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yosifsayed444&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
+## 🌐 Connect with Me
+<p align="center">
+<a href="mailto:yousifsayed338@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/yossef-sayed-213019357"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/yosifsayed444"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
-
-## 🌐 Connect & Collaborate
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yossef-sayed-213019357)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yosifsayed444)
+⭐️ From [yosifsayed444](https://github.com/yosifsayed444)
 
 </div>
-
----
-
-<div align="center">
   
 ### 🎭 *"In a world full of bugs, be a feature!"* 
 
