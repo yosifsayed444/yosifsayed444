@@ -43,40 +43,40 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true&card_width=420" height="180"/>
 </p>
 
----
+## 🚀 Featured Projects
 
-## 🚀 Featured Projects  
 <div align="center">
 
-<table>
-  <tr>
-    <td width="400">
-      <a href="https://github.com/yosifsayed444/ToDoListApp">
-        <h3>📝 ToDo List App</h3>
-      </a>
-      <p>A simple ToDo list web application to manage daily tasks with add, delete, and mark-as-done features.</p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=ToDoListApp&theme=radical&border_color=FF0000&border_radius=15&card_width=420" />
-    </td>
-    <td width="400">
-      <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-        <h3>🏫 School System Administration</h3>
-      </a>
-      <p>A console-based C++ project for managing students, teachers, and courses in a school system.</p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=School_System_Adminstration&theme=radical&border_color=FF0000&border_radius=15&card_width=420" />
-    </td>
-    <td width="400">
-      <a href="https://github.com/yosifsayed444/IT_Project">
-        <h3>💻 IT Project</h3>
-      </a>
-      <p>A team project built in university focusing on IT solutions and management system design.</p>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=IT_Project&theme=radical&border_color=FF0000&border_radius=15&card_width=420" />
-    </td>
-  </tr>
-</table>
+  <!-- ToDoListApp -->
+  <a href="https://github.com/yosifsayed444/ToDoListApp">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/200/external-checklist-agile-flat-flat-juicy-fish.png" width="100" alt="ToDoList Logo"/>
+    <h3>📝 ToDo List App</h3>
+    <p><b>Simple and responsive ToDo List application</b> built with HTML, CSS, and JavaScript.  
+    Manage your daily tasks efficiently with add, complete, and delete features.</p>
+  </a>
+
+  <hr width="60%"/>
+
+  <!-- School System Administration -->
+  <a href="https://github.com/yosifsayed444/School_System_Adminstration">
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/200/external-school-education-flaticons-lineal-color-flat-icons.png" width="100" alt="School System Logo"/>
+    <h3>🏫 School System Administration</h3>
+    <p><b>School management system</b> built with C++ OOP concepts.  
+    Manage students, teachers, and courses through a menu-driven program.</p>
+  </a>
+
+  <hr width="60%"/>
+
+  <!-- IT Project -->
+  <a href="https://github.com/yosifsayed444/IT_Project">
+    <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/200/external-project-project-management-itim2101-lineal-color-itim2101.png" width="100" alt="IT Project Logo"/>
+    <h3>💻 IT Project</h3>
+    <p><b>Academic IT project</b> demonstrating system design and problem-solving.  
+    Includes multiple programming concepts and modular structure.</p>
+  </a>
 
 </div>
 
----
 
 ## 🌐 Connect with Me
 <p align="center">
