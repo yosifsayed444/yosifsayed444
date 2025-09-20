@@ -19,8 +19,6 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & 🔧 Tools    
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode" />
 </p>
@@ -38,6 +36,29 @@
 ## 🌟 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+<p align="center">
+
+  <!-- Project 1 -->
+  <a href="https://github.com/yosifsayed444/todo-list">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=todo-list&theme=tokyonight" />
+  </a>
+
+  <!-- Project 2 -->
+  <a href="https://github.com/yosifsayed444/calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=calculator&theme=tokyonight" />
+  </a>
+
+  <!-- Project 3 -->
+  <a href="https://github.com/yosifsayed444/school-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=school-management-system&theme=tokyonight" />
+  </a>
+
 </p>
 
 ---
