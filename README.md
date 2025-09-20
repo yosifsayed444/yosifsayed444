@@ -36,8 +36,8 @@ My adventure started with the solid foundations of programming logic through *C/
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
-  
+  <img src="https://streak-stats.demolab.com?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
@@ -45,15 +45,31 @@ My adventure started with the solid foundations of programming logic through *C/
 ## 📂 Featured Projects  
 
 <p align="center">
+
   <a href="https://github.com/yosifsayed444/ToDoListApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=ToDoListApp&theme=tokyonight" alt="ToDoListApp" />
   </a>
+  <br>
+  <a href="https://your-demo-link.com/ToDoListApp">
+    <img src="https://img.shields.io/badge/Live_Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+
   <a href="https://github.com/yosifsayed444/School_System_Adminstration">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=School_System_Adminstration&theme=tokyonight" alt="School System" />
   </a>
+  <br>
+  <a href="https://your-demo-link.com/School_System_Adminstration">
+    <img src="https://img.shields.io/badge/Live_Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+
   <a href="https://github.com/yosifsayed444/IT_Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=IT_Project&theme=tokyonight" alt="IT Project" />
   </a>
+  <br>
+  <a href="https://your-demo-link.com/IT_Project">
+    <img src="https://img.shields.io/badge/Live_Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+
 </p>
 
 ---
