@@ -40,41 +40,52 @@ My adventure started with the solid foundations of programming logic through *C/
 </p>
 
 ---
+<div align="center">
 
-## 🚀 Featured Projects  
+<table>
+  <tr>
+    <!-- ToDoListApp -->
+    <td align="center" width="300px">
+      <a href="https://github.com/yosifsayed444/ToDoListApp" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/todo-list.png" width="100" height="100"/>
+        <br/>
+        <strong style="font-size:22px;">📝 ToDo List App</strong>
+      </a>
+      <p><em>Manage daily tasks with a clean and simple ToDo app.</em></p>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/🔗 Live%20Demo-blue?style=for-the-badge"/>
+      </a>
+    </td>
+    
+    <!-- School_System_Adminstration -->
+    <td align="center" width="300px">
+      <a href="https://github.com/yosifsayed444/School_System_Adminstration" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/school-building.png" width="100" height="100"/>
+        <br/>
+        <strong style="font-size:22px;">🏫 School System Administration</strong>
+      </a>
+      <p><em>OOP-based project to manage students, teachers, and school operations.</em></p>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/🔗 Live%20Demo-green?style=for-the-badge"/>
+      </a>
+    </td>
+    
+    <!-- IT_Project -->
+    <td align="center" width="300px">
+      <a href="https://github.com/yosifsayed444/IT_Project" target="_blank">
+        <img src="https://img.icons8.com/color/96/000000/computer.png" width="100" height="100"/>
+        <br/>
+        <strong style="font-size:22px;">💻 IT Project</strong>
+      </a>
+      <p><em>Practical IT project showcasing teamwork and code structure.</em></p>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/🔗 Live%20Demo-orange?style=for-the-badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <!-- ToDoListApp -->
-  <a href="https://github.com/yosifsayed444/ToDoListApp" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/todo-list.png" width="80" height="80"/>
-    <h3>📝 ToDo List App</h3>
-    <p>Simple ToDo List app to manage daily tasks efficiently with clean UI.</p>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <!-- School_System_Adminstration -->
-  <a href="https://github.com/yosifsayed444/School_System_Adminstration" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/school-building.png" width="80" height="80"/>
-    <h3>🏫 School System Administration</h3>
-    <p>Basic OOP-based project to manage students, teachers, and school operations.</p>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <!-- IT_Project -->
-  <a href="https://github.com/yosifsayed444/IT_Project" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/computer.png" width="80" height="80"/>
-    <h3>💻 IT Project</h3>
-    <p>Practical IT project showcasing teamwork, problem-solving, and code structure.</p>
-  </a>
-</p>
-
----
+</div>
 
 ## 🌐 Connect with Me  
 <p align="center">
