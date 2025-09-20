@@ -42,12 +42,6 @@
 
 ---
 
-### 📂 Featured Projects
-- 📝 [To-Do List App](#) – A simple task manager with add/remove/edit features.  
-- 🧮 [Calculator](#) – Clean and responsive calculator with modern UI.  
-- 🏫 [School Management System (C++)](#) – OOP-based system for managing students & teachers.  
-
----
 
 ### 🌐 Connect with Me
 <p align="left">
