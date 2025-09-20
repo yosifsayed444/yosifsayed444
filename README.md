@@ -45,65 +45,18 @@ My adventure started with the solid foundations of programming logic through *C/
 ## 📂 Featured Projects  
 
 <p align="center">
-
-  <!-- ToDoListApp -->
-  <a href="https://your-live-demo-1.example.com" target="_blank" rel="noopener">
+  <a href="https://github.com/yosifsayed444/ToDoListApp">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=ToDoListApp&theme=tokyonight" alt="ToDoListApp" />
   </a>
-  <br/>
-  <a href="https://your-live-demo-1.example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?logo=vercel" alt="Live Demo" />
-  </a>
-  &nbsp;
-  <a href="https://gitpod.io/#https://github.com/yosifsayed444/ToDoListApp" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20in-Gitpod-6F42C1?logo=gitpod" alt="Open in Gitpod" />
-  </a>
-
-  <br/><br/>
-
-  <!-- School_System_Adminstration -->
-  <a href="https://your-live-demo-2.example.com" target="_blank" rel="noopener">
+  <a href="https://github.com/yosifsayed444/School_System_Adminstration">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=School_System_Adminstration&theme=tokyonight" alt="School System" />
   </a>
-  <br/>
-  <a href="https://your-live-demo-2.example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?logo=vercel" alt="Live Demo" />
-  </a>
-  &nbsp;
-  <a href="https://gitpod.io/#https://github.com/yosifsayed444/School_System_Adminstration" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20in-Gitpod-6F42C1?logo=gitpod" alt="Open in Gitpod" />
-  </a>
-
-  <br/><br/>
-
-  <!-- IT_Project -->
-  <a href="https://your-live-demo-3.example.com" target="_blank" rel="noopener">
+  <a href="https://github.com/yosifsayed444/IT_Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=IT_Project&theme=tokyonight" alt="IT Project" />
   </a>
-  <br/>
-  <a href="https://your-live-demo-3.example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?logo=vercel" alt="Live Demo" />
+  <a href="https://github.com/yosifsayed444/Hospital_Project.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=Hospital_Project&theme=tokyonight" alt="IT Project" />
   </a>
-  &nbsp;
-  <a href="https://gitpod.io/#https://github.com/yosifsayed444/IT_Project" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20in-Gitpod-6F42C1?logo=gitpod" alt="Open in Gitpod" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Hospital_Project -->
-  <a href="https://your-live-demo-4.example.com" target="_blank" rel="noopener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=Hospital_Project&theme=tokyonight" alt="Hospital Project" />
-  </a>
-  <br/>
-  <a href="https://your-live-demo-4.example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?logo=vercel" alt="Live Demo" />
-  </a>
-  &nbsp;
-  <a href="https://gitpod.io/#https://github.com/yosifsayed444/Hospital_Project" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20in-Gitpod-6F42C1?logo=gitpod" alt="Open in Gitpod" />
-  </a>
-
 </p>
 
 
