@@ -32,113 +32,62 @@ Once upon a time, in a world filled with `<div>`s and semicolons, a passionate s
 
 My adventure started with the solid foundations of programming logic through *C/C++* and *problem-solving mastery*, which gave me the superpower to think algorithmically. Now, I'm channeling that analytical mindset into crafting pixel-perfect user interfaces and seamless user experiences. Every bug I squash, every responsive design I create, and every React component I build brings me one step closer to becoming the front-end wizard I aspire to be!
 
----
-## 🛠️ Tech Stack
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode&theme=dark" height="65"/>
-</div>
 
----
-
-## 🚀 Featured Projects
-<style>
-.card {
-  border-radius: 20px;
-  padding: 25px;
-  width: 320px;
-  background: #111827;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.6);
-  transition: all 0.3s ease-in-out;
-  display: inline-block;
-  vertical-align: top;
-  margin: 15px;
-}
-.card:hover {
-  transform: scale(1.07);
-  background: #1f2937;
-  box-shadow: 0 12px 25px rgba(0,0,0,0.8);
-}
-.card h3 {
-  background: linear-gradient(90deg,#FF4C4C,#FF9A8B);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-.card p {
-  color: #ccc;
-}
-</style>
-
-<div align="center">
-
-  <!-- ToDo List App -->
-  <div class="card">
-    <a href="https://github.com/yosifsayed444/ToDoListApp">
-      <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" width="180"/>
-      <h3>ToDo List App</h3>
-    </a>
-    <p>A simple and interactive ToDo List application to manage daily tasks efficiently.</p>
-    <a href="https://github.com/yosifsayed444/ToDoListApp">
-      <img src="https://img.shields.io/badge/View%20Repo-FF4C4C?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </div>
-
-  <!-- School System -->
-  <div class="card">
-    <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-      <img src="https://skillicons.dev/icons?i=cpp,github&theme=dark" width="180"/>
-      <h3>School System</h3>
-    </a>
-    <p>OOP-based School Management System project built with C++.</p>
-    <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-      <img src="https://img.shields.io/badge/View%20Repo-FF4C4C?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </div>
-
-  <!-- IT Project -->
-  <div class="card">
-    <a href="https://github.com/yosifsayed444/IT_Project">
-      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react&theme=dark" width="180"/>
-      <h3>IT Project</h3>
-    </a>
-    <p>An IT project combining frontend and backend technologies for practice.</p>
-    <a href="https://github.com/yosifsayed444/IT_Project">
-      <img src="https://img.shields.io/badge/View%20Repo-FF4C4C?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </div>
-
-</div>
-
----
-
-## 📊 GitHub Stats
+## 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="200"/>
 </p>
 
 ---
 
-## 🌟 Top Languages
+## 🚀 Featured Projects  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <!-- ToDoListApp -->
+  <a href="https://github.com/yosifsayed444/ToDoListApp" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/todo-list.png" width="80" height="80"/>
+    <h3>📝 ToDo List App</h3>
+    <p>Simple ToDo List app to manage daily tasks efficiently with clean UI.</p>
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect with Me
 <p align="center">
-<a href="mailto:yousifsayed338@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/yossef-sayed-213019357"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/yosifsayed444"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <!-- School_System_Adminstration -->
+  <a href="https://github.com/yosifsayed444/School_System_Adminstration" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/school-building.png" width="80" height="80"/>
+    <h3>🏫 School System Administration</h3>
+    <p>Basic OOP-based project to manage students, teachers, and school operations.</p>
+  </a>
 </p>
 
 ---
 
-<div align="center">
-  
-⭐️ From [yosifsayed444](https://github.com/yosifsayed444)
+<p align="center">
+  <!-- IT_Project -->
+  <a href="https://github.com/yosifsayed444/IT_Project" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/computer.png" width="80" height="80"/>
+    <h3>💻 IT Project</h3>
+    <p>Practical IT project showcasing teamwork, problem-solving, and code structure.</p>
+  </a>
+</p>
 
-</div>
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://github.com/yosifsayed444">
+    <img src="https://img.icons8.com/ios-glyphs/60/000000/github.png" width="50" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.icons8.com/ios-filled/60/000000/linkedin.png" width="50" />
+  </a>
+  <a href="mailto:yousifsayed338@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/60/000000/gmail.png" width="50" />
+  </a>
+</p>
+
   
 ### 🎭 *"In a world full of bugs, be a feature!"* 
 
