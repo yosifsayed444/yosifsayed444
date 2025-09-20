@@ -31,57 +31,64 @@
 
 ---
 
-## 📝 Languages Usage
-<p align="center">
-
-</p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center">
 
-  <div style="flex: 1 1 300px; max-width: 300px; background: linear-gradient(135deg, #1e3c72, #2a5298); color: #fff; border-radius: 15px; padding: 20px; transition: transform 0.3s, box-shadow 0.3s;"
-       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.4)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/color/96/todo-list.png" width="70"/>  
-    <h3>📝 ToDo List App</h3>
-    <p>Manage daily tasks with a clean and simple ToDo app.</p>
-    <p><b>Tech:</b> HTML, CSS, JavaScript</p>
-    <a href="https://github.com/yosifsayed444/ToDoListApp">
-      <img src="https://img.shields.io/badge/Source_Code-fff?style=for-the-badge&logo=github&logoColor=000"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Live_Demo-28A745?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-  </div>
+<table>
+  <tr>
+    <!-- ToDo App -->
+    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
+      <img src="https://img.icons8.com/color/96/todo-list.png" width="80"/>  
+      <h3>📝 ToDo List App</h3>
+      <p>Manage daily tasks with a clean and simple ToDo app.</p>
+      <p>
+        🔹 Add, edit, delete tasks<br>
+        🔹 Responsive UI
+      </p>
+      <a href="https://github.com/yosifsayed444/ToDoListApp">
+        <img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github" />
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live_Demo-28a745?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
 
-  <div style="flex: 1 1 300px; max-width: 300px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: #fff; border-radius: 15px; padding: 20px; transition: transform 0.3s, box-shadow 0.3s;"
-       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.4)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com;color/96/school-building.png" width="70"/>  
-    <h3>🏫 School System</h3>
-    <p>OOP-based project to manage students, teachers, and courses.</p>
-    <p><b>Tech:</b> C++, OOP</p>
-    <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-      <img src="https://img.shields.io/badge/Source_Code-fff?style=for-the-badge&logo=github&logoColor=000"/>
-    </a>
-  </div>
+    <!-- School System -->
+    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
+      <img src="https://img.icons8.com/color/96/school-building.png" width="80"/>  
+      <h3>🏫 School System</h3>
+      <p>OOP-based project to manage students, teachers, and school operations.</p>
+      <p>
+        🔹 Manage Students<br>
+        🔹 Manage Teachers & Courses
+      </p>
+      <a href="https://github.com/yosifsayed444/School_System_Adminstration">
+        <img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github" />
+      </a>
+    </td>
 
-  <div style="flex: 1 1 300px; max-width: 300px; background: linear-gradient(135deg, #42275a, #734b6d); color: #fff; border-radius: 15px; padding: 20px; transition: transform 0.3s, box-shadow 0.3s;"
-       onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.4)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/color/96/computer.png" width="70"/>  
-    <h3>💻 IT Project</h3>
-    <p>Team-based IT project showcasing frontend & backend basics.</p>
-    <p><b>Tech:</b> HTML, CSS, C++</p>
-    <a href="https://github.com/yosifsayed444/IT_Project">
-      <img src="https://img.shields.io/badge/Source_Code-fff?style=for-the-badge&logo=github&logoColor=000"/>
-    </a>
-  </div>
+    <!-- IT Project -->
+    <td width="300" align="center" style="border: 2px solid #444; border-radius: 15px; padding: 20px; box-shadow: 2px 2px 15px rgba(0,0,0,0.2);">
+      <img src="https://img.icons8.com/color/96/computer.png" width="80"/>  
+      <h3>💻 IT Project</h3>
+      <p>Team-based IT project showcasing backend & frontend basics.</p>
+      <p>
+        🔹 Real-world focus<br>
+        🔹 Structured Code
+      </p>
+      <a href="https://github.com/yosifsayed444/IT_Project">
+        <img src="https://img.shields.io/badge/Source_Code-000?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
