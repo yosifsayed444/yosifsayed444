@@ -1,6 +1,12 @@
 <!-- Header -->
-[<h1 align="center">Hi 👋, I'm Yossef Sayed</h1>
-<h3 align="center">Computer Science Student | Aspiring MERN Stack Developer</h3>](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Yossef+Sayed;Front+End+Developer+In+Progress+%F0%9F%92%BB;Turning+Coffee+Into+Code+%E2%98%95%EF%B8%8F)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Yossef+Sayed;Front+End+Developer+In+Progress+%F0%9F%92%BB;Turning+Coffee+Into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
+
 
 ---
 
