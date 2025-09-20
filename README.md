@@ -19,8 +19,6 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & 🔧 Tools    
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode" />
 </p>
@@ -42,25 +40,50 @@
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:yousifsayed338@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yossef-sayed-213019357">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="linkedin"/>
-  </a>
-  <a href="https://github.com/yosifsayed444">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github"/>
-  </a>
+## 🚀 Featured Projects  
+
+### 📌 [ToDoListApp](https://github.com/yosifsayed444/ToDoListApp)  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=ToDoListApp&theme=tokyonight" />
+</p>
+<p>
+  <img src="https://img.shields.io/github/languages/top/yosifsayed444/ToDoListApp?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/github/stars/yosifsayed444/ToDoListApp?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/forks/yosifsayed444/ToDoListApp?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 🎉 Just for Fun
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
-</div>
+### 📌 [School_System_Adminstration](https://github.com/yosifsayed444/School_System_Adminstration)  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=School_System_Adminstration&theme=tokyonight" />
+</p>
+<p>
+  <img src="https://img.shields.io/github/languages/top/yosifsayed444/School_System_Adminstration?style=for-the-badge&logo=cpp" />
+  <img src="https://img.shields.io/github/stars/yosifsayed444/School_System_Adminstration?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/forks/yosifsayed444/School_System_Adminstration?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+### 📌 [IT_Project](https://github.com/yosifsayed444/IT_Project)  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=IT_Project&theme=tokyonight" />
+</p>
+<p>
+  <img src="https://img.shields.io/github/languages/top/yosifsayed444/IT_Project?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/github/stars/yosifsayed444/IT_Project?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/forks/yosifsayed444/IT_Project?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+<a href="mailto:yousifsayed338@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/yossef-sayed-213019357"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/yosifsayed444"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
