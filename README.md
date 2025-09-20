@@ -18,11 +18,8 @@
 ---
 
 ## 🛠️ Tech Stack
-
-### 💻 Languages & 🔧 Tools    
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,c,git,github,vscode,tailwind" height="50"/>
 </p>
 
 ---
@@ -42,8 +39,35 @@
 
 ---
 
+## 🚀 Featured Projects  
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/yosifsayed444/ToDoListApp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=ToDoListApp&theme=radical&border_color=FF0000&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yosifsayed444/School_System_Adminstration">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=School_System_Adminstration&theme=radical&border_color=FF0000&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yosifsayed444/IT_Project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=IT_Project&theme=radical&border_color=FF0000&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
 ## 🌐 Connect with Me
-<p align="left">
+<p align="center">
 <a href="mailto:yousifsayed338@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/yossef-sayed-213019357"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/yosifsayed444"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
