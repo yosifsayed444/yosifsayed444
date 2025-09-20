@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tool Tech Box
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,c,git,github,vscode,tailwind" height="60"/>
 </p>
@@ -39,35 +39,30 @@ My adventure started with the solid foundations of programming logic through *C/
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
 </p>
 
----
+
 ## 🚀 Featured Projects  
 
 <div align="center">
 
 <table>
   <tr>
-    <!-- ToDo List -->
-    <td align="center" width="300px">
+    <td>
       <a href="https://github.com/yosifsayed444/ToDoListApp">
-        <img src="https://img.icons8.com/color/96/000000/todo-list.png" width="100" height="100"/>
+        <img src="https://img.icons8.com/color/96/todo-list.png" width="80"/>
         <h3>📝 ToDo List App</h3>
       </a>
       <p>Manage daily tasks with a clean and simple ToDo app.</p>
     </td>
-
-    <!-- School System -->
-    <td align="center" width="300px">
+    <td>
       <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-        <img src="https://img.icons8.com/color/96/000000/school-building.png" width="100" height="100"/>
+        <img src="https://img.icons8.com/color/96/school-building.png" width="80"/>
         <h3>🏫 School System</h3>
       </a>
       <p>OOP-based project to manage students, teachers, and school operations.</p>
     </td>
-
-    <!-- IT Project -->
-    <td align="center" width="300px">
+    <td>
       <a href="https://github.com/yosifsayed444/IT_Project">
-        <img src="https://img.icons8.com/color/96/000000/computer.png" width="100" height="100"/>
+        <img src="https://img.icons8.com/color/96/computer.png" width="80"/>
         <h3>💻 IT Project</h3>
       </a>
       <p>Practical IT project showcasing teamwork and code structure.</p>
