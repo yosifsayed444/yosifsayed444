@@ -57,8 +57,8 @@ My adventure started with the solid foundations of programming logic through *C/
   <a href="https://github.com/yosifsayed444/Hospital_Project.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=Hospital_Project&theme=tokyonight" alt="IT Project" />
   </a>
-  <a href="https://github.com/yosifsayed444/Data-Structures-With-C.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=Data-Structures-With-C&theme=tokyonight" alt="IT Project" />
+  <a href="https://github.com/yosifsayed444/iti-laravel-project.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=iti-laravel-project&theme=tokyonight" alt="IT Project" />
   </a>
   <a href="https://github.com/yosifsayed444/Data-Structures-With-C.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=Data-Structures-With-C&theme=tokyonight" alt="IT Project" />
