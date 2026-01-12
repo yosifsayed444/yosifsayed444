@@ -34,13 +34,9 @@ My adventure started with the solid foundations of programming logic through *C/
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&v=1)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&v=1)
 
 ---
 
