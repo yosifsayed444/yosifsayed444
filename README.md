@@ -33,12 +33,10 @@ My adventure started with the solid foundations of programming logic through *C/
 
 ---
 
-## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight" width="48%" />
 </p>
-
 ---
 
 ## 🌐 Connect with Me  
