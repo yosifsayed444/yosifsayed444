@@ -40,6 +40,41 @@ My adventure started with the solid foundations of programming logic through *C/
 ![Followers](https://img.shields.io/github/followers/yosifsayed444?style=social)
 
 ---
+---
+## 🚀Top Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📌 Project Name</h3>
+      <p>Short description of the project and what it does.</p>
+      <p><b>Tech:</b> C, Data Structures</p>
+      <a href="https://github.com/yosifsayed444/REPO_NAME">🔗 View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>📌 Project Name</h3>
+      <p>Short description of the project and idea.</p>
+      <p><b>Tech:</b> HTML, CSS</p>
+      <a href="https://github.com/yosifsayed444/REPO_NAME">🔗 View Repository</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>📌 Project Name</h3>
+      <p>Description of the project.</p>
+      <p><b>Tech:</b> Java, OOP</p>
+      <a href="https://github.com/yosifsayed444/REPO_NAME">🔗 View Repository</a>
+    </td>
+    <td width="50%">
+      <h3>📌 Project Name</h3>
+      <p>Description of the project.</p>
+      <p><b>Tech:</b> JavaScript, CSS</p>
+      <a href="https://github.com/yosifsayed444/REPO_NAME">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
+---
 
 ## 🌐 Connect with Me  
 <p align="center">
