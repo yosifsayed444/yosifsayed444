@@ -39,42 +39,99 @@ My adventure started with the solid foundations of programming logic through *C/
 
 ![Followers](https://img.shields.io/github/followers/yosifsayed444?style=social)
 
----
----
-## 🚀Top Projects
+## 🚀 Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>📌 Project Name</h3>
-      <p>Short description of the project and what it does.</p>
-      <p><b>Tech:</b> C, Data Structures</p>
-      <a href="https://github.com/yosifsayed444/REPO_NAME">🔗 View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>📌 Project Name</h3>
-      <p>Short description of the project and idea.</p>
-      <p><b>Tech:</b> HTML, CSS</p>
-      <a href="https://github.com/yosifsayed444/REPO_NAME">🔗 View Repository</a>
-    </td>
-  </tr>
+<tr>
 
-  <tr>
-    <td width="50%">
-      <h3>📌 Project Name</h3>
-      <p>Description of the project.</p>
-      <p><b>Tech:</b> Java, OOP</p>
-      <a href="https://github.com/yosifsayed444/REPO_NAME">🔗 View Repository</a>
-    </td>
-    <td width="50%">
-      <h3>📌 Project Name</h3>
-      <p>Description of the project.</p>
-      <p><b>Tech:</b> JavaScript, CSS</p>
-      <a href="https://github.com/yosifsayed444/REPO_NAME">🔗 View Repository</a>
-    </td>
-  </tr>
+<td width="50%" valign="top">
+
+### 📦 <span style="color:#58A6FF">Data Structures With C</span>
+🧠 Implementations of core data structures using C  
+<b>Tech:</b> C  
+🔗 <a href="https://github.com/yosifsayed444/Data-Structures-With-C">View Repo</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 <span style="color:#F78166">Inventory Management System</span>
+Java Swing application for inventory management with file handling  
+<b>Tech:</b> Java, Swing  
+🔗 <a href="https://github.com/yosifsayed444/Inventory-Management-System-with-Java-Swing">View Repo</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 <span style="color:#7EE787">System Analysis & Design</span>
+E-commerce website with multiple sections and cart system  
+<b>Tech:</b> HTML, CSS, JavaScript  
+🔗 <a href="https://github.com/yosifsayed444/System-Analysis-and-Design-Next-Gen-Developers-Team">View Repo</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏫 <span style="color:#D2A8FF">School System Administration</span>
+System for managing school operations  
+<b>Tech:</b> Programming Fundamentals  
+🔗 <a href="https://github.com/yosifsayed444/School_System_Administration">View Repo</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏥 <span style="color:#FFA657">Hospital Project</span>
+Hospital management system project  
+<b>Tech:</b> C++  
+🔗 <a href="https://github.com/yosifsayed444/Hospital_Project">View Repo</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ✅ <span style="color:#A5D6FF">ToDo List App</span>
+Simple To-Do application  
+<b>Tech:</b> JavaScript  
+🔗 <a href="https://github.com/yosifsayed444/ToDoListApp">View Repo</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 <span style="color:#F0F6FC">IT Project</span>
+Basic IT related web project  
+<b>Tech:</b> HTML  
+🔗 <a href="https://github.com/yosifsayed444/IT_Project">View Repo</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 <span style="color:#38BDF8">ITI Laravel Project</span>
+Laravel-based web application  
+<b>Tech:</b> PHP, Laravel  
+🔗 <a href="https://github.com/yosifsayed444/iti-laravel-project">View Repo</a>
+
+</td>
+
+</tr>
+
 </table>
----
+
 
 ## 🌐 Connect with Me  
 <p align="center">
