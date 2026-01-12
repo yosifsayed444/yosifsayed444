@@ -32,11 +32,12 @@ Once upon a time, in a world filled with `<div>`s and semicolons, a passionate s
 My adventure started with the solid foundations of programming logic through *C/C++* and *problem-solving mastery*, which gave me the superpower to think algorithmically. Now, I'm channeling that analytical mindset into crafting pixel-perfect user interfaces and seamless user experiences. Every bug I squash, every responsive design I create, and every React component I build brings me one step closer to becoming the front-end wizard I aspire to be!
 
 ---
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&v=1)
+## 🔥 GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&v=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=yosifsayed444&theme=tokyonight)
+
+![Followers](https://img.shields.io/github/followers/yosifsayed444?style=social)
 
 ---
 
