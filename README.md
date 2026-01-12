@@ -39,33 +39,6 @@ My adventure started with the solid foundations of programming logic through *C/
   <img src="https://streak-stats.demolab.com?user=yosifsayed444&theme=tokyonight&hide_border=true" alt="streak" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
-
----
-
-## 📂 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/yosifsayed444/ToDoListApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=ToDoListApp&theme=tokyonight" alt="ToDoListApp" />
-  </a>
-  <a href="https://github.com/yosifsayed444/School_System_Adminstration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=School_System_Adminstration&theme=tokyonight" alt="School System" />
-  </a>
-  <a href="https://github.com/yosifsayed444/IT_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=IT_Project&theme=tokyonight" alt="IT Project" />
-  </a>
-  <a href="https://github.com/yosifsayed444/Hospital_Project.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=Hospital_Project&theme=tokyonight" alt="IT Project" />
-  </a>
-  <a href="https://github.com/yosifsayed444/iti-laravel-project.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=iti-laravel-project&theme=tokyonight" alt="IT Project" />
-  </a>
-  <a href="https://github.com/yosifsayed444/Data-Structures-With-C.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yosifsayed444&repo=Data-Structures-With-C&theme=tokyonight" alt="IT Project" />
-  </a>
-</p>
-
-
 ---
 
 ## 🌐 Connect with Me  
