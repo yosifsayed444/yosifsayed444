@@ -15,7 +15,7 @@
 
 ## 🛠️ Tool Tech Box
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,c,git,github,vscode,tailwind" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,c,git,github,vscode,tailwind,php,mysql,sqlserver" height="60"/>
 </p>
 
 ---
