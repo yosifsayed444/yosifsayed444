@@ -1,151 +1,117 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=250&section=header&text=Yossef%20Sayed&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F64F59&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+Aspirant;Problem+Solver+&amp;+Logic+Seeker;Front-End+Wizard+in+Training;CS+Student+at+FCAIH" alt="Typing SVG" />
+
+  <p align="center">
+    <a href="https://github.com/yosifsayed444">
+      <img src="https://img.shields.io/github/followers/yosifsayed444?label=Followers&style=for-the-badge&color=12c2e9&logo=github" alt="Followers"/>
+    </a>
+    <a href="mailto:yousifsayed338@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-f64f59?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/yossef-sayed-213019357">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-c471ed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Second-year **Computer Science** student at Faculty of Computers and Information  
-- 🚀 Passionate about **Web Development, Open Source, and Problem Solving**  
-- 🎯 Goal: Become a **Full-Stack Developer** and contribute to impactful projects  
+### 🚀 About Me
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZTNmaXp6emR6YnkxaGZ6emR6YnkxaGZ6emR6YnkxaGZ6emR6YnkmbnA9MSZscD0x/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+
+Hello! I'm **Yossef Sayed Abozide**, a passionate **Second-year Computer Science student** at the Faculty of Computers and Information. 
+
+- 🎓 **Focus**: Mastering the transition from algorithmic logic to beautiful, functional user interfaces.
+- 💡 **Philosophy**: *"In a world full of bugs, be a premium feature."*
+- 🎯 **Current Goal**: Building scalable Full-Stack applications and contributing to impactful open-source projects.
+- 🌱 **Learning**: Advanced React patterns and Backend architectural designs.
 
 ---
 
-## 🛠️ Tool Tech Box
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,c,git,github,vscode,tailwind,php,mysql,sqlserver" height="60"/>
+### 🛠️ My Tech Universe
+
+#### 🎨 Frontend & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode" />
+</p>
+
+#### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel,mysql" />
+</p>
+
+#### 🧠 Languages & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,git,github" />
 </p>
 
 ---
 
-## 🎭 The Origin Story
+### 📊 GitHub Power Stats
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-Once upon a time, in a world filled with `<div>`s and semicolons, a passionate soul named *Yossef Sayed Abozide* embarked on an epic quest to master the art of *Front End Development*. Armed with a keyboard, an endless supply of coffee, and an insatiable curiosity for creating beautiful digital experiences, I began my journey from the depths of C++ algorithms to the colorful realms of HTML, CSS, and JavaScript.
-
-My adventure started with the solid foundations of programming logic through *C/C++* and *problem-solving mastery*, which gave me the superpower to think algorithmically. Now, I'm channeling that analytical mindset into crafting pixel-perfect user interfaces and seamless user experiences. Every bug I squash, every responsive design I create, and every React component I build brings me one step closer to becoming the front-end wizard I aspire to be!
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yosifsayed444&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
+</p>
 
 ---
 
-## 🔥 GitHub Activity
+### 📂 Featured Projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yosifsayed444&theme=tokyonight)
-
-![Followers](https://img.shields.io/github/followers/yosifsayed444?style=social)
-
-## 🚀 Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📦 <span style="color:#58A6FF">Data Structures With C</span>
-🧠 Implementations of core data structures using C  
-<b>Tech:</b> C  
-🔗 <a href="https://github.com/yosifsayed444/Data-Structures-With-C">View Repo</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛒 <span style="color:#F78166">Inventory Management System</span>
-Java Swing application for inventory management with file handling  
-<b>Tech:</b> Java, Swing  
-🔗 <a href="https://github.com/yosifsayed444/Inventory-Management-System-with-Java-Swing">View Repo</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 <span style="color:#7EE787">System Analysis & Design</span>
-E-commerce website with multiple sections and cart system  
-<b>Tech:</b> HTML, CSS, JavaScript  
-🔗 <a href="https://github.com/yosifsayed444/System-Analysis-and-Design-Next-Gen-Developers-Team">View Repo</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏫 <span style="color:#D2A8FF">School System Administration</span>
-System for managing school operations  
-<b>Tech:</b> Programming Fundamentals  
-🔗 <a href="https://github.com/yosifsayed444/School_System_Administration">View Repo</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏥 <span style="color:#FFA657">Hospital Project</span>
-Hospital management system project  
-<b>Tech:</b> C++  
-🔗 <a href="https://github.com/yosifsayed444/Hospital_Project">View Repo</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ✅ <span style="color:#A5D6FF">ToDo List App</span>
-Simple To-Do application  
-<b>Tech:</b> JavaScript  
-🔗 <a href="https://github.com/yosifsayed444/ToDoListApp">View Repo</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 💻 <span style="color:#F0F6FC">IT Project</span>
-Basic IT related web project  
-<b>Tech:</b> HTML  
-🔗 <a href="https://github.com/yosifsayed444/IT_Project">View Repo</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 <span style="color:#38BDF8">ITI Laravel Project</span>
-Laravel-based web application  
-<b>Tech:</b> PHP, Laravel  
-🔗 <a href="https://github.com/yosifsayed444/iti-laravel-project">View Repo</a>
-
-</td>
-
-</tr>
-
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/algorithm.png"/><br>
+      <b>Data Structures With C</b><br>
+      <i>Deep dive into core memory management</i><br>
+      <code>C</code><br>
+      <a href="https://github.com/yosifsayed444/Data-Structures-With-C">View Repository</a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/box.png"/><br>
+      <b>Inventory Management</b><br>
+      <i>Java Swing desktop application</i><br>
+      <code>Java</code> <code>Swing</code><br>
+      <a href="https://github.com/yosifsayed444/Inventory-Management-System-with-Java-Swing">View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/web-design.png"/><br>
+      <b>System Analysis & Design</b><br>
+      <i>Next-Gen E-commerce UI</i><br>
+      <code>HTML</code> <code>CSS</code> <code>JS</code><br>
+      <a href="https://github.com/yosifsayed444/System-Analysis-and-Design-Next-Gen-Developers-Team">View Repository</a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/><br>
+      <b>ITI Laravel Project</b><br>
+      <i>Scalable backend solutions</i><br>
+      <code>PHP</code> <code>Laravel</code><br>
+      <a href="https://github.com/yosifsayed444/iti-laravel-project">View Repository</a>
+    </td>
+  </tr>
 </table>
 
-
-## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://github.com/yosifsayed444">
-    <img src="https://img.icons8.com/ios-glyphs/70/github.png" width="55"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yossef-sayed-213019357">
-    <img src="https://img.icons8.com/ios-filled/70/0077B5/linkedin.png" width="55"/>
-  </a>
-  <a href="mailto:yousifsayed338@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/70/D14836/gmail.png" width="55"/>
+  <a href="https://github.com/yosifsayed444?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-12c2e9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=120&section=footer&animation=twinkling" width="100%"/>
   
-### 🎭 *"In a world full of bugs, be a feature!"* 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=yosifsayed444&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
+  <p><i>Design with passion, code with purpose.</i></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=yosifsayed444&color=12c2e9&style=flat-square&label=PROFILE+VIEWS" />
 </div>
