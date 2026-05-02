@@ -7,7 +7,6 @@
 
 ## 👨‍💻 About Me
 - 🎓 Second-year **Computer Science** student at Faculty of Computers and Information  
-- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
 - 🚀 Passionate about **Web Development, Open Source, and Problem Solving**  
 - 🎯 Goal: Become a **Full-Stack Developer** and contribute to impactful projects  
 
