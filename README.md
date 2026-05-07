@@ -50,24 +50,32 @@ Hello! I'm **Yossef Sayed Abozide**, a passionate **Second-year Computer Science
 
 ---
 
-### 📊 GitHub Power Stats
+## 🚀 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+
+  <img
+    src="https://streak-stats.demolab.com?user=yosifsayed444&theme=tokyonight&hide_border=true"
     height="180"
   />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosifsayed444&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yosifsayed444&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=yosifsayed444&theme=tokyonight&no-frame=true&row=1&column=6"
+  />
+
 </p>
 
+<p align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yosifsayed444&theme=tokyo-night&hide_border=true"
+  />
+
+</p>
 ---
 
 ### 📂 Featured Projects
