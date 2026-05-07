@@ -76,6 +76,30 @@ Hello! I'm **Yossef Sayed Abozide**, a passionate **Second-year Computer Science
   />
 
 </p>
+## 📊 GitHub Analytics
+
+<p align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=yosifsayed444&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+</p>
+
+<p align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yosifsayed444&theme=tokyonight"
+    height="180"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yosifsayed444&theme=tokyonight&utcOffset=3"
+    height="180"
+  />
+
+</p>
 ---
 
 ### 📂 Featured Projects
