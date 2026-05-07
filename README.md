@@ -58,15 +58,10 @@ Hello! I'm **Yossef Sayed Abozide**, a passionate **Second-year Computer Science
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=yosifsayed444&theme=tokyo-night&hide_border=true"
   />
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=yosifsayed444&label=Profile%20Views&color=0e75b6&style=flat"
-  />
 </p>
-
 <p align="center">
   <img
-    src="https://img.shields.io/github/commit-activity/m/yosifsayed444/your-repo-name?style=for-the-badge"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yosifsayed444&theme=tokyonight"
   />
 </p>
 ---
