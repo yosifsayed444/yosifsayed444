@@ -57,12 +57,12 @@ Hello! I'm **Yossef Sayed Abozide**, a passionate **Second-year Computer Science
     </tr>
   </table>
 </div>
----
+
 ### 📅 Global Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yosifsayed444&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
----
+
 ### 📂 Featured Projects
 <table width="100%">
   <tr>
