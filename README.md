@@ -60,11 +60,9 @@ Hello! I'm **Yossef Sayed Abozide**, a passionate **Second-year Computer Science
   />
 
 </p>
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=yosifsayed444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yosifsayed444&theme=tokyonight"
   />
 </p>
 ---
